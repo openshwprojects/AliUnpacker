@@ -39,3 +39,50 @@
 
 # debug information files
 *.dwo
+
+
+# ============================
+# Visual Studio / VC++ extras
+# ============================
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.log
+*.tlog
+
+# Visual Studio cache/IDE files
+.vs/
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+
+# IntelliSense files
+*.ipch
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# VC++ project files that should NOT be committed
+*.vcproj.*      # e.g. vcproj.XYZ.user
+*.vcxproj.user
+*.vcxproj.filters
+*.vcproj.filters
+
+# Other common temporary/IDE files
+*.ncb
+*.opensdf
+
+# Crash/backup files
+*.lastbuildstate
+*.idb
+*.pbi
+*.pidb
+*.tmp
+*.bak
+*.backup
+
